@@ -1,4 +1,4 @@
-another react navbar but this time with a dropdown menu which appears on hover
+another react navbar but this time with a dropdown menu which appears on hover. fully responsive on mobile
 
 demo below
 
